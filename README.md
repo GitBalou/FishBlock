@@ -1,6 +1,6 @@
 # RedWire
 
-a school project
+a school project !
 
 ##Installation and launch
 
